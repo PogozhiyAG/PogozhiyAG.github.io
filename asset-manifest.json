@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.54af5e0c.css",
-    "main.js": "/static/js/main.99e5ec20.js",
+    "main.css": "/static/css/main.1bbeab15.css",
+    "main.js": "/static/js/main.9bc16fc6.js",
     "static/media/nastan.png": "/static/media/nastan.2458d43dd7ade5458221.png",
     "static/media/askesta.png": "/static/media/askesta.74ee996d12b6daf9b273.png",
     "static/media/lunar.jfif": "/static/media/lunar.8219e45f0ab3849bbb97.jfif",
     "static/media/menu.jfif": "/static/media/menu.a0f0f89be85ea5a4033f.jfif",
     "static/media/tatran.jfif": "/static/media/tatran.6682e51444dd63ead22e.jfif",
     "static/media/vilora.jfif": "/static/media/vilora.f62cc9a1d9bcb1d2634b.jfif",
-    "static/media/cart.svg": "/static/media/cart.3d75a864ee6336d0ad50a4d453cacfaa.svg",
+    "static/media/cart.svg": "/static/media/cart.47c6943bb6ac8cfb254f8de6614b7962.svg",
     "static/media/heart-outline.svg": "/static/media/heart-outline.f8511d11e5f727cc3a94fa7ef4e05b59.svg",
     "static/media/shopping-bag-line.svg": "/static/media/shopping-bag-line.9f55a8521f461c6f2c8c4e02e8a39fcd.svg",
-    "static/media/catalog.svg": "/static/media/catalog.20e73de7f60e78a6679033d752729cc7.svg",
+    "static/media/catalog.svg": "/static/media/catalog.55f0fd7f9bdc6fd43803719b4f65f3c9.svg",
     "index.html": "/index.html",
     "static/media/select-drop-down-arrow.svg": "/static/media/select-drop-down-arrow.1cafd2a8767aa8a0ac57.svg",
-    "main.54af5e0c.css.map": "/static/css/main.54af5e0c.css.map",
-    "main.99e5ec20.js.map": "/static/js/main.99e5ec20.js.map"
+    "main.1bbeab15.css.map": "/static/css/main.1bbeab15.css.map",
+    "main.9bc16fc6.js.map": "/static/js/main.9bc16fc6.js.map"
   },
   "entrypoints": [
-    "static/css/main.54af5e0c.css",
-    "static/js/main.99e5ec20.js"
+    "static/css/main.1bbeab15.css",
+    "static/js/main.9bc16fc6.js"
   ]
 }
