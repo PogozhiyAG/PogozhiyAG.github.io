@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.1bbeab15.css",
+    "main.css": "/static/css/main.7794ef75.css",
     "main.js": "/static/js/main.cb688333.js",
     "static/media/nastan.png": "/static/media/nastan.2458d43dd7ade5458221.png",
     "static/media/askesta.png": "/static/media/askesta.74ee996d12b6daf9b273.png",
@@ -14,11 +14,11 @@
     "static/media/catalog.svg": "/static/media/catalog.55f0fd7f9bdc6fd43803719b4f65f3c9.svg",
     "index.html": "/index.html",
     "static/media/select-drop-down-arrow.svg": "/static/media/select-drop-down-arrow.1cafd2a8767aa8a0ac57.svg",
-    "main.1bbeab15.css.map": "/static/css/main.1bbeab15.css.map",
+    "main.7794ef75.css.map": "/static/css/main.7794ef75.css.map",
     "main.cb688333.js.map": "/static/js/main.cb688333.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bbeab15.css",
+    "static/css/main.7794ef75.css",
     "static/js/main.cb688333.js"
   ]
 }
