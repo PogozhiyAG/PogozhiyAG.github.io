@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.83cb8061.css",
-    "main.js": "/static/js/main.f78c8c11.js",
+    "main.css": "/static/css/main.2040eae6.css",
+    "main.js": "/static/js/main.d97e16b1.js",
     "static/media/nastan.png": "/static/media/nastan.2458d43dd7ade5458221.png",
     "static/media/askesta.png": "/static/media/askesta.74ee996d12b6daf9b273.png",
     "static/media/lunar.jfif": "/static/media/lunar.8219e45f0ab3849bbb97.jfif",
@@ -9,16 +9,16 @@
     "static/media/tatran.jfif": "/static/media/tatran.6682e51444dd63ead22e.jfif",
     "static/media/vilora.jfif": "/static/media/vilora.f62cc9a1d9bcb1d2634b.jfif",
     "static/media/cart.svg": "/static/media/cart.47c6943bb6ac8cfb254f8de6614b7962.svg",
-    "static/media/heart-outline.svg": "/static/media/heart-outline.f8511d11e5f727cc3a94fa7ef4e05b59.svg",
-    "static/media/shopping-bag-line.svg": "/static/media/shopping-bag-line.9f55a8521f461c6f2c8c4e02e8a39fcd.svg",
+    "static/media/heart-outline.svg": "/static/media/heart-outline.4d239dd74361c5c07f64ec67f5c85c20.svg",
+    "static/media/shopping-bag-line.svg": "/static/media/shopping-bag-line.71ab99b0f3ed55affacfaecba6444b6d.svg",
     "static/media/catalog.svg": "/static/media/catalog.55f0fd7f9bdc6fd43803719b4f65f3c9.svg",
     "index.html": "/index.html",
-    "static/media/select-drop-down-arrow.svg": "/static/media/select-drop-down-arrow.1cafd2a8767aa8a0ac57.svg",
-    "main.83cb8061.css.map": "/static/css/main.83cb8061.css.map",
-    "main.f78c8c11.js.map": "/static/js/main.f78c8c11.js.map"
+    "static/media/select-drop-down-arrow.svg": "/static/media/select-drop-down-arrow.d70a63a900a0271df37e.svg",
+    "main.2040eae6.css.map": "/static/css/main.2040eae6.css.map",
+    "main.d97e16b1.js.map": "/static/js/main.d97e16b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.83cb8061.css",
-    "static/js/main.f78c8c11.js"
+    "static/css/main.2040eae6.css",
+    "static/js/main.d97e16b1.js"
   ]
 }
